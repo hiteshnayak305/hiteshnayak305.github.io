@@ -9,9 +9,21 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚀 Skills and Technologies
 
-- **Programming Languages:** Java, JavaScript
-- **Frameworks and Libraries:** Spring Framework and Boot, Nodejs - Expressjs
-- **Tools and Platforms:** Ansible, Kubernetes, Github-Git, Docker, Helm
+### Programming
+
+[![My Skills](https://skillicons.dev/icons?i=java,js&theme=light)](https://skillicons.dev)
+
+### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,react&theme=light)](https://skillicons.dev)
+
+### Operations
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,kubernetes,docker,githubactions,git,jenkins,grafana,prometheus&theme=light)](https://skillicons.dev)
+
+### IDE & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,postman&theme=light)](https://skillicons.dev)
 
 ## 🔭 My Projects
 
