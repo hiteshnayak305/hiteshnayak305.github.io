@@ -26,11 +26,19 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
     </a>
 </p>
 
+<p align="right">
+  <a href="https://github.com/hiteshnayak305/hiteshnayak305/actions/workflows/update-readme.yml">
+    <img alt="Update README" title="Update README" src="https://github.com/hiteshnayak305/hiteshnayak305/actions/workflows/update-readme.yml/badge.svg"/>
+  </a>
+  <img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/hiteshnayak305/hiteshnayak305?logo=github&labelColor=343434"/>
+  <img alt="GitHub License" title="GitHub License" src="https://img.shields.io/github/license/hiteshnayak305/hiteshnayak305?logo=github&labelColor=343434"/>
+</p>
+
 ----------
 
 ## 🌱 What I'm Currently Working On
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/hiteshnayak305/ansible-homelab">
     <img alt="ansible-homelab" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=ansible-homelab"/>
   </a>
