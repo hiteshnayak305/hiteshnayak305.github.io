@@ -9,6 +9,10 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
     <a href="https://github.com/hiteshnayak305">
         <img alt="hiteshnayak305" title="Github" src="https://img.shields.io/badge/hiteshnayak305-black?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+    <a href="https://keyserver.ubuntu.com/pks/lookup?search=hiteshnayak305&fingerprint=on&op=index">
+        <img alt="hiteshnayak305" title="GNU Privacy Guard" src="https://img.shields.io/badge/2E4D20F7F119206B-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&label=GPG&labelColor=black"/>
+        <img alt="hiteshnayak305" title="GNU Privacy Guard" src="https://img.shields.io/badge/D1EE65392CD1E987-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&label=GPG&labelColor=black"/>
+    </a>
     <a href="https://hub.docker.com/u/hiteshnayak305">
         <img alt="hiteshnayak305" title="Docker Hub" src="https://img.shields.io/badge/hiteshnayak305-black?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
