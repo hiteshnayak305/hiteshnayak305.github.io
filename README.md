@@ -43,6 +43,12 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#332](https://github.com/tandpfun/skill-icons/issues/332#issuecomment-2660107101) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+2. 🎉 Merged PR [#13](https://github.com/hiteshnayak305/ansible-homelab/pull/13) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+3. 💪 Opened PR [#13](https://github.com/hiteshnayak305/ansible-homelab/pull/13) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+4. 🎉 Merged PR [#11](https://github.com/hiteshnayak305/ansible-homelab/pull/11) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+5. 🎉 Merged PR [#12](https://github.com/hiteshnayak305/ansible-homelab/pull/12) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+<!--END_SECTION:activity-->
 
 ----------
 
