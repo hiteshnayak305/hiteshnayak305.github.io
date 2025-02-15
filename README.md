@@ -36,7 +36,7 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
   </a>
 </p>
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hiteshnayak305&theme=github-light&date_format=j%20M%5B%20Y%5D"/>
