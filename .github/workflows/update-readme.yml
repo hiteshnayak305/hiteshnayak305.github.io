@@ -1,0 +1,21 @@
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    if: github.repository == 'hiteshnayak305/hiteshnayak305'
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
