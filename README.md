@@ -44,14 +44,16 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
 
 <p align="left">
   <a href="https://github.com/hiteshnayak305/ansible-homelab">
-    <img alt="ansible-homelab" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=ansible-homelab"/>
+    <img alt="ansible-homelab" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=ansible-homelab&description_lines_count=2"/>
   </a>
 </p>
 
-### ⚡ Recent Activity
+### ⚡ Activity
 
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hiteshnayak305&theme=github-light&date_format=j%20M%5B%20Y%5D"/>
+  <img alt="Github Stats" title="" src="https://github-readme-stats.vercel.app/api?username=hiteshnayak305&show_icons=true&custom_title=Github%20Stats&rank_icon=github">
+  <img alt="Top Langs" title="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshnayak305&layout=compact&langs_count=8">
 </p>
 
 <!--START_SECTION:activity-->
@@ -73,32 +75,21 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
   <img alt="" src="https://skillicons.dev/icons?i=eclipse,vscode,postman&theme=light"/>
 </p>
 
-----------
-
 ## 🔭 My Projects
 
 <p align="center">
   <a href="https://github.com/hiteshnayak305/ansible-homelab">
-    <img alt="ansible-homelab" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=ansible-homelab"/>
+    <img alt="ansible-homelab" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=ansible-homelab&description_lines_count=2"/>
   </a>
   <a href="https://github.com/hiteshnayak305/k8s-custom-images">
-    <img alt="k8s-custom-images" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=k8s-custom-images"/>
+    <img alt="k8s-custom-images" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=k8s-custom-images&description_lines_count=2"/>
   </a>
   <a href="https://github.com/hiteshnayak305/cors-proxy">
-    <img alt="cors-proxy" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=cors-proxy"/>
+    <img alt="cors-proxy" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=cors-proxy&description_lines_count=2"/>
   </a>
   <a href="https://github.com/hiteshnayak305/cert-utils">
-    <img alt="cert-utils" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=cert-utils"/>
+    <img alt="cert-utils" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=cert-utils&description_lines_count=2"/>
   </a>
 </p>
-
-----------
-
-## 📈 Stats
-
-<p align="center">
-  <img alt="Github Stats" title="" src="https://github-readme-stats.vercel.app/api?username=hiteshnayak305&show_icons=true&custom_title=Github%20Stats">
-  <img alt="Top Langs" title="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshnayak305&layout=compact">
-</p>
-
+</br>
 Thanks for visiting my profile!
