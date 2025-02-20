@@ -14,8 +14,22 @@ jobs:
     name: Update README with recent activity
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  update-github-io:
+    if: github.repository == 'hiteshnayak305/hiteshnayak305'
+    needs: update-readme
+    name: push master to github.io repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Push master to hiteshnayak305.github.io
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PA_TOKEN }}
+          repository: hiteshnayak305/hiteshnayak305.github.io
+          branch: master
