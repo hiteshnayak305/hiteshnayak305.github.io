@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hitesh Nayak 👋</h1>
 
-Welcome to my profile! I'm a passionate software developer with a keen interest in web development and open-source contributions.
+<p align="center">Welcome to my profile! I'm a passionate software developer with a keen interest in web development and open-source contributions.</p>
 
 <p align="center">
     <a href="https://hiteshnayak305.github.io">
@@ -91,5 +91,5 @@ Welcome to my profile! I'm a passionate software developer with a keen interest 
     <img alt="cert-utils" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshnayak305&repo=cert-utils&description_lines_count=2"/>
   </a>
 </p>
-</br>
+
 Thanks for visiting my profile!
