@@ -36,6 +36,7 @@
   </a>
   <img alt="GitHub last commit" title="GitHub last commit" src="https://img.shields.io/github/last-commit/hiteshnayak305/hiteshnayak305?logo=github&labelColor=343434"/>
   <img alt="GitHub License" title="GitHub License" src="https://img.shields.io/github/license/hiteshnayak305/hiteshnayak305?logo=github&labelColor=343434"/>
+  <img alt="Visitors" title="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hiteshnayak305.hiteshnayak305"/>
 </p>
 
 ----------
