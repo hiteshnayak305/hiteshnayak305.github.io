@@ -5,6 +5,7 @@
     "MD033": {
         "allowed_elements": [
             "h1",
+            "h6",
             "p",
             "a",
             "img"

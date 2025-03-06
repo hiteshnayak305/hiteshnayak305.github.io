@@ -19,6 +19,22 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/github-script@v6
+        id: values
+        with:
+          script: |
+            return {
+              CURRENT_TIME: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata', timeZoneName: 'short', day: 'numeric', month: 'long', year: 'numeric', hour: 'numeric', minute: 'numeric' }),
+            };
+      - uses: austenstone/markdown-interpolation-action@main
+        with:
+          values: ${{ steps.values.outputs.result }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+          commit_message: "⚡ Update README with last update time"
+
   update-github-io:
     if: github.repository == 'hiteshnayak305/hiteshnayak305'
     needs: update-readme

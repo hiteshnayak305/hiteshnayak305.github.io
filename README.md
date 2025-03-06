@@ -39,6 +39,8 @@
   <img alt="Visitors" title="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hiteshnayak305.hiteshnayak305"/>
 </p>
 
+<h6>Last Updated: <!--CURRENT_TIME--> <!--END CURRENT_TIME--></h6>
+
 ----------
 
 ## 🌱 What I'm Currently Working On
