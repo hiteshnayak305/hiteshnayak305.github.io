@@ -60,11 +60,11 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
-2. 💪 Opened PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
-3. 🎉 Merged PR [#23](https://github.com/hiteshnayak305/ansible-homelab/pull/23) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
-4. 💪 Opened PR [#23](https://github.com/hiteshnayak305/ansible-homelab/pull/23) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
-5. 🎉 Merged PR [#22](https://github.com/hiteshnayak305/ansible-homelab/pull/22) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+1. 🎉 Merged PR [#6](https://github.com/hiteshnayak305/go-rest-project/pull/6) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
+2. 💪 Opened PR [#6](https://github.com/hiteshnayak305/go-rest-project/pull/6) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
+3. 🎉 Merged PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+4. 💪 Opened PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+5. 🎉 Merged PR [#23](https://github.com/hiteshnayak305/ansible-homelab/pull/23) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
 <!--END_SECTION:activity-->
 
 ----------
