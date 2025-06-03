@@ -60,8 +60,8 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hiteshnayak305/go-rest-project/pull/7#issuecomment-2872042486) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
-2. 🎉 Merged PR [#6](https://github.com/hiteshnayak305/go-rest-project/pull/6) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
+1. 🗣 Commented on [#8](https://github.com/hiteshnayak305/go-rest-project/pull/8#issuecomment-2930416733) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
+2. 🗣 Commented on [#7](https://github.com/hiteshnayak305/go-rest-project/pull/7#issuecomment-2872042486) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
 3. 💪 Opened PR [#6](https://github.com/hiteshnayak305/go-rest-project/pull/6) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
 4. 🎉 Merged PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
 5. 💪 Opened PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
