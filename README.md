@@ -60,11 +60,11 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hiteshnayak305/go-rest-project/pull/9#issuecomment-2955585600) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
-2. 🗣 Commented on [#8](https://github.com/hiteshnayak305/go-rest-project/pull/8#issuecomment-2930416733) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
-3. 🗣 Commented on [#7](https://github.com/hiteshnayak305/go-rest-project/pull/7#issuecomment-2872042486) in [hiteshnayak305/go-rest-project](https://github.com/hiteshnayak305/go-rest-project)
-4. 🎉 Merged PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
-5. 💪 Opened PR [#24](https://github.com/hiteshnayak305/ansible-homelab/pull/24) in [hiteshnayak305/ansible-homelab](https://github.com/hiteshnayak305/ansible-homelab)
+1. 🗣 Commented on [#7](https://github.com/hiteshnayak305/cors-proxy/pull/7#issuecomment-3368038761) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
+2. 🎉 Merged PR [#13](https://github.com/hiteshnayak305/cors-proxy/pull/13) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
+3. 💪 Opened PR [#13](https://github.com/hiteshnayak305/cors-proxy/pull/13) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
+4. 🎉 Merged PR [#5](https://github.com/hiteshnayak305/cors-proxy/pull/5) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
+5. 🎉 Merged PR [#6](https://github.com/hiteshnayak305/cors-proxy/pull/6) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
 <!--END_SECTION:activity-->
 
 ----------
