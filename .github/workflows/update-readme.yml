@@ -30,7 +30,7 @@ jobs:
       - uses: austenstone/markdown-interpolation-action@main
         with:
           values: ${{ steps.values.outputs.result }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
           commit_message: "⚡ Update README with last update time"
