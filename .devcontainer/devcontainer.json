@@ -14,5 +14,6 @@
 			]
 		}
 	},
-	"remoteUser": "vscode"
+	"remoteUser": "vscode",
+	"initializeCommand": "ssh-add"
 }
