@@ -60,11 +60,11 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hiteshnayak305/cors-proxy/pull/7#issuecomment-3368038761) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
-2. 🎉 Merged PR [#13](https://github.com/hiteshnayak305/cors-proxy/pull/13) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
-3. 💪 Opened PR [#13](https://github.com/hiteshnayak305/cors-proxy/pull/13) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
-4. 🎉 Merged PR [#5](https://github.com/hiteshnayak305/cors-proxy/pull/5) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
-5. 🎉 Merged PR [#6](https://github.com/hiteshnayak305/cors-proxy/pull/6) in [hiteshnayak305/cors-proxy](https://github.com/hiteshnayak305/cors-proxy)
+1. 🗣 Commented on [#1](https://github.com/hiteshnayak305/hiteshnayak305/pull/1#issuecomment-3369303538) in [hiteshnayak305/hiteshnayak305](https://github.com/hiteshnayak305/hiteshnayak305)
+2. 🗣 Commented on [#1](https://github.com/hiteshnayak305/hiteshnayak305/pull/1#issuecomment-3369302429) in [hiteshnayak305/hiteshnayak305](https://github.com/hiteshnayak305/hiteshnayak305)
+3. 🗣 Commented on [#2](https://github.com/hiteshnayak305/hiteshnayak305/pull/2#issuecomment-3369301655) in [hiteshnayak305/hiteshnayak305](https://github.com/hiteshnayak305/hiteshnayak305)
+4. 🗣 Commented on [#2](https://github.com/hiteshnayak305/hiteshnayak305/pull/2#issuecomment-3369301097) in [hiteshnayak305/hiteshnayak305](https://github.com/hiteshnayak305/hiteshnayak305)
+5. 🎉 Merged PR [#3](https://github.com/hiteshnayak305/hiteshnayak305/pull/3) in [hiteshnayak305/hiteshnayak305](https://github.com/hiteshnayak305/hiteshnayak305)
 <!--END_SECTION:activity-->
 
 ----------
